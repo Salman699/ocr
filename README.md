@@ -1,6 +1,7 @@
 # ocr
 ocr dengan python
 ==
-dibuat oleh salman
+dibuat oleh salman dan fandi
+
 ==
 + oke
